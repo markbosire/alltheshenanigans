@@ -1,0 +1,34 @@
+{
+  "app_id": "1109398410",
+  "app_name": "Porter - Truck & Bike Delivery",
+  "review_counts": {
+    "total": 17,
+    "positive": 10,
+    "negative": 6
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.12368823529411765,
+    "sentiment_distribution": {
+      "positive": 0.5882352941176471,
+      "negative": 0.35294117647058826,
+      "neutral": 0.058823529411764705
+    },
+    "top_key_phrases": [
+      "service",
+      "app",
+      "porter",
+      "easy",
+      "good",
+      "first",
+      "helpful",
+      "driver",
+      "amazing",
+      "time"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9022,
+      "min_sentiment_score": -0.9421
+    }
+  }
+}

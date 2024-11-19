@@ -1,0 +1,93 @@
+{
+  "app_id": "6444727687",
+  "app_name": "GO S. Placer On-Demand Transit",
+  "reviews": [
+    {
+      "id": "11870386086",
+      "userName": "Dreamy68",
+      "userUrl": "https://itunes.apple.com/us/reviews/id493359382",
+      "version": "3.27.9",
+      "score": 1,
+      "title": "The worst service",
+      "text": "This is the worst transportation service. The dispatchers are rude, they lie, and always say it\u2019s the customers fault. \nDon\u2019t bother with this. They\u2019re also the most unreliable dispatchers and drivers. \nStay with uber\u2026",
+      "url": "https://itunes.apple.com/us/review?id=6444727687&type=Purple%20Software",
+      "updated": "2024-10-24T11:21:54-07:00",
+      "appId": "6444727687",
+      "appName": "GO S. Placer On-Demand Transit",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.946,
+        "key_phrases": [
+          "worst",
+          "service",
+          "dispatchers",
+          "transportation",
+          "rude"
+        ],
+        "sentiment_details": {
+          "positive": 0.0,
+          "negative": 0.337,
+          "neutral": 0.663
+        }
+      }
+    },
+    {
+      "id": "11278158393",
+      "userName": "Paul Rocker",
+      "userUrl": "https://itunes.apple.com/us/reviews/id1112802161",
+      "version": "3.24.54",
+      "score": 1,
+      "title": "What\u2019s the point?",
+      "text": "No rides available even for future.",
+      "url": "https://itunes.apple.com/us/review?id=6444727687&type=Purple%20Software",
+      "updated": "2024-05-17T14:39:44-07:00",
+      "appId": "6444727687",
+      "appName": "GO S. Placer On-Demand Transit",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.296,
+        "key_phrases": [
+          "rides",
+          "available",
+          "even",
+          "future",
+          "point"
+        ],
+        "sentiment_details": {
+          "positive": 0.0,
+          "negative": 0.216,
+          "neutral": 0.784
+        }
+      }
+    },
+    {
+      "id": "11236203710",
+      "userName": "HI powered",
+      "userUrl": "https://itunes.apple.com/us/reviews/id1528908188",
+      "version": "3.23.7",
+      "score": 2,
+      "title": "Confusing",
+      "text": "Tried to select rides within the service area but no rights available. it would be useful to have some colored areas on the map to let user know where roseville arrow and placer go available. Useless, Another government app that's super clutery. I am sure they paid top dollars to develop it. probably an uncle/vousin won the bid with very little oversight. Another example of waste of tax payers doolars.",
+      "url": "https://itunes.apple.com/us/review?id=6444727687&type=Purple%20Software",
+      "updated": "2024-05-05T13:54:45-07:00",
+      "appId": "6444727687",
+      "appName": "GO S. Placer On-Demand Transit",
+      "sentiment_analysis": {
+        "sentiment": "positive",
+        "sentiment_score": 0.8338,
+        "key_phrases": [
+          "available",
+          "another",
+          "tried",
+          "select",
+          "rides"
+        ],
+        "sentiment_details": {
+          "positive": 0.209,
+          "negative": 0.135,
+          "neutral": 0.656
+        }
+      }
+    }
+  ]
+}

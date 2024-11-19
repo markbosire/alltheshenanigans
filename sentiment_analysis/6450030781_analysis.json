@@ -1,0 +1,34 @@
+{
+  "app_id": "6450030781",
+  "app_name": "Muvr - Request movers",
+  "review_counts": {
+    "total": 53,
+    "positive": 50,
+    "negative": 2
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.8518716981132075,
+    "sentiment_distribution": {
+      "positive": 0.9433962264150944,
+      "negative": 0.03773584905660377,
+      "neutral": 0.018867924528301886
+    },
+    "top_key_phrases": [
+      "great",
+      "service",
+      "moving",
+      "app",
+      "best",
+      "muvr",
+      "used",
+      "delivery",
+      "amazing",
+      "rico"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9931,
+      "min_sentiment_score": -0.1471
+    }
+  }
+}

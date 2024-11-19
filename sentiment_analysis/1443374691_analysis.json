@@ -1,0 +1,34 @@
+{
+  "app_id": "1443374691",
+  "app_name": "TITLE On Demand",
+  "review_counts": {
+    "total": 54,
+    "positive": 38,
+    "negative": 14
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.37328518518518516,
+    "sentiment_distribution": {
+      "positive": 0.7037037037037037,
+      "negative": 0.25925925925925924,
+      "neutral": 0.037037037037037035
+    },
+    "top_key_phrases": [
+      "app",
+      "workouts",
+      "title",
+      "great",
+      "good",
+      "love",
+      "boxing",
+      "subscription",
+      "used",
+      "video"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9961,
+      "min_sentiment_score": -0.9653
+    }
+  }
+}

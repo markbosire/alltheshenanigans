@@ -1,0 +1,33 @@
+{
+  "app_id": "1489325367",
+  "app_name": "Dubai Bus on Demand",
+  "review_counts": {
+    "total": 2,
+    "positive": 1,
+    "negative": 1
+  },
+  "overall_analysis": {
+    "overall_sentiment": "negative",
+    "average_sentiment_score": -0.30305,
+    "sentiment_distribution": {
+      "positive": 0.5,
+      "negative": 0.5,
+      "neutral": 0.0
+    },
+    "top_key_phrases": [
+      "app",
+      "destination",
+      "fix",
+      "needs",
+      "tell",
+      "pick",
+      "made",
+      "late",
+      "work"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.1513,
+      "min_sentiment_score": -0.7574
+    }
+  }
+}

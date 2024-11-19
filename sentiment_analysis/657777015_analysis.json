@@ -1,0 +1,34 @@
+{
+  "app_id": "657777015",
+  "app_name": "Via \u2014 smarter mobility.",
+  "review_counts": {
+    "total": 500,
+    "positive": 317,
+    "negative": 150
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.153365,
+    "sentiment_distribution": {
+      "positive": 0.57,
+      "negative": 0.35,
+      "neutral": 0.08
+    },
+    "top_key_phrases": [
+      "via",
+      "driver",
+      "app",
+      "service",
+      "ride",
+      "great",
+      "time",
+      "drivers",
+      "get",
+      "pick"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9865,
+      "min_sentiment_score": -0.9155
+    }
+  }
+}

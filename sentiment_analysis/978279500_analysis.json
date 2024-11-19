@@ -1,0 +1,34 @@
+{
+  "app_id": "978279500",
+  "app_name": "GoShare Driver: Earn Money",
+  "review_counts": {
+    "total": 376,
+    "positive": 194,
+    "negative": 142
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.088003,
+    "sentiment_distribution": {
+      "positive": 0.52,
+      "negative": 0.33,
+      "neutral": 0.15
+    },
+    "top_key_phrases": [
+      "app",
+      "background",
+      "pay",
+      "check",
+      "job",
+      "time",
+      "work",
+      "project",
+      "first",
+      "get"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9694,
+      "min_sentiment_score": -0.9726
+    }
+  }
+}

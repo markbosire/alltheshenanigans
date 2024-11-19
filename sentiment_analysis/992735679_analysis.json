@@ -1,0 +1,34 @@
+{
+  "app_id": "992735679",
+  "app_name": "Yoshi - Keep Moving",
+  "review_counts": {
+    "total": 313,
+    "positive": 218,
+    "negative": 87
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.498147,
+    "sentiment_distribution": {
+      "positive": 0.79,
+      "negative": 0.19,
+      "neutral": 0.02
+    },
+    "top_key_phrases": [
+      "service",
+      "gas",
+      "yoshi",
+      "love",
+      "app",
+      "great",
+      "time",
+      "using",
+      "car",
+      "best"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.987,
+      "min_sentiment_score": -0.9328
+    }
+  }
+}

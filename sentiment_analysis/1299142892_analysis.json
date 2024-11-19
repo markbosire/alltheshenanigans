@@ -1,0 +1,29 @@
+{
+  "app_id": "1299142892",
+  "app_name": "Truckr-On-demand Trucks",
+  "review_counts": {
+    "total": 1,
+    "positive": 1,
+    "negative": 0
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.9273,
+    "sentiment_distribution": {
+      "positive": 1.0,
+      "negative": 0.0,
+      "neutral": 0.0
+    },
+    "top_key_phrases": [
+      "dave",
+      "best",
+      "driver",
+      "super",
+      "job"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9273,
+      "min_sentiment_score": 0.9273
+    }
+  }
+}

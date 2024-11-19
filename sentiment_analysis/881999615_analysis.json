@@ -1,0 +1,34 @@
+{
+  "app_id": "881999615",
+  "app_name": "Dolly: Moving & Delivery Help",
+  "review_counts": {
+    "total": 500,
+    "positive": 234,
+    "negative": 253
+  },
+  "overall_analysis": {
+    "overall_sentiment": "negative",
+    "average_sentiment_score": -0.049550000000000004,
+    "sentiment_distribution": {
+      "positive": 0.44,
+      "negative": 0.54,
+      "neutral": 0.02
+    },
+    "top_key_phrases": [
+      "dolly",
+      "service",
+      "move",
+      "time",
+      "helper",
+      "day",
+      "helpers",
+      "movers",
+      "experience",
+      "app"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9764,
+      "min_sentiment_score": -0.9735
+    }
+  }
+}

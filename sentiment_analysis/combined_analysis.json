@@ -1,0 +1,742 @@
+{
+  "app_analyses": [
+    {
+      "app_id": "735701965",
+      "app_name": "Lalamove - Fast & Affordable",
+      "review_counts": {
+        "total": 45,
+        "positive": 26,
+        "negative": 11
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.23209555555555555,
+        "sentiment_distribution": {
+          "positive": 0.5777777777777777,
+          "negative": 0.24444444444444444,
+          "neutral": 0.17777777777777778
+        },
+        "top_key_phrases": [
+          "service",
+          "app",
+          "driver",
+          "good",
+          "easy",
+          "even",
+          "fast",
+          "customer",
+          "notifications",
+          "drivers"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9776,
+          "min_sentiment_score": -0.9482
+        }
+      }
+    },
+    {
+      "app_id": "1487797537",
+      "app_name": "Move It: Moving & Delivery",
+      "review_counts": {
+        "total": 117,
+        "positive": 114,
+        "negative": 2
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.8325440000000001,
+        "sentiment_distribution": {
+          "positive": 0.97,
+          "negative": 0.02,
+          "neutral": 0.01
+        },
+        "top_key_phrases": [
+          "move",
+          "app",
+          "great",
+          "service",
+          "easy",
+          "time",
+          "amazing",
+          "use",
+          "used",
+          "guys"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9897,
+          "min_sentiment_score": -0.4404
+        }
+      }
+    },
+    {
+      "app_id": "1274712968",
+      "app_name": "MOSSA On Demand",
+      "review_counts": {
+        "total": 42,
+        "positive": 36,
+        "negative": 6
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.6436619047619048,
+        "sentiment_distribution": {
+          "positive": 0.8571428571428571,
+          "negative": 0.14285714285714285,
+          "neutral": 0.0
+        },
+        "top_key_phrases": [
+          "app",
+          "workouts",
+          "mossa",
+          "gym",
+          "group",
+          "love",
+          "fitness",
+          "class",
+          "great",
+          "years"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9935,
+          "min_sentiment_score": -0.8439
+        }
+      }
+    },
+    {
+      "app_id": "1457294624",
+      "app_name": "GOGOX - Get anything delivered",
+      "review_counts": {
+        "total": 17,
+        "positive": 4,
+        "negative": 0
+      },
+      "overall_analysis": {
+        "overall_sentiment": "neutral",
+        "average_sentiment_score": 0.1550058823529412,
+        "sentiment_distribution": {
+          "positive": 0.23529411764705882,
+          "negative": 0.0,
+          "neutral": 0.7647058823529411
+        },
+        "top_key_phrases": [
+          "\uc218",
+          "\uac00\uaca9\uc774",
+          "\ub354",
+          "\uac83",
+          "1",
+          "gogox",
+          "\uc798",
+          "\ubd80\ub97c",
+          "\ube44\uad50\uc801",
+          "\uc800\ub834\ud55c"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9685,
+          "min_sentiment_score": 0.0
+        }
+      }
+    },
+    {
+      "app_id": "919765207",
+      "app_name": "Lugg - Moving & Delivery",
+      "review_counts": {
+        "total": 500,
+        "positive": 363,
+        "negative": 119
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.463792,
+        "sentiment_distribution": {
+          "positive": 0.73,
+          "negative": 0.23,
+          "neutral": 0.04
+        },
+        "top_key_phrases": [
+          "lugg",
+          "great",
+          "time",
+          "app",
+          "service",
+          "efficient",
+          "movers",
+          "used",
+          "move",
+          "friendly"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9914,
+          "min_sentiment_score": -0.9882
+        }
+      }
+    },
+    {
+      "app_id": "1443374691",
+      "app_name": "TITLE On Demand",
+      "review_counts": {
+        "total": 54,
+        "positive": 38,
+        "negative": 14
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.37328518518518516,
+        "sentiment_distribution": {
+          "positive": 0.7037037037037037,
+          "negative": 0.25925925925925924,
+          "neutral": 0.037037037037037035
+        },
+        "top_key_phrases": [
+          "app",
+          "workouts",
+          "title",
+          "great",
+          "good",
+          "love",
+          "boxing",
+          "subscription",
+          "used",
+          "video"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9961,
+          "min_sentiment_score": -0.9653
+        }
+      }
+    },
+    {
+      "app_id": "1489325367",
+      "app_name": "Dubai Bus on Demand",
+      "review_counts": {
+        "total": 2,
+        "positive": 1,
+        "negative": 1
+      },
+      "overall_analysis": {
+        "overall_sentiment": "negative",
+        "average_sentiment_score": -0.30305,
+        "sentiment_distribution": {
+          "positive": 0.5,
+          "negative": 0.5,
+          "neutral": 0.0
+        },
+        "top_key_phrases": [
+          "app",
+          "destination",
+          "fix",
+          "needs",
+          "tell",
+          "pick",
+          "made",
+          "late",
+          "work"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.1513,
+          "min_sentiment_score": -0.7574
+        }
+      }
+    },
+    {
+      "app_id": "977871324",
+      "app_name": "GoShare: Deliver, Move, LTL",
+      "review_counts": {
+        "total": 500,
+        "positive": 375,
+        "negative": 117
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.435259,
+        "sentiment_distribution": {
+          "positive": 0.74,
+          "negative": 0.26,
+          "neutral": 0.0
+        },
+        "top_key_phrases": [
+          "service",
+          "app",
+          "delivery",
+          "great",
+          "time",
+          "use",
+          "professional",
+          "goshare",
+          "first",
+          "easy"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9829,
+          "min_sentiment_score": -0.9844
+        }
+      }
+    },
+    {
+      "app_id": "1630344160",
+      "app_name": "Guiltyfitness ON Demand",
+      "review_counts": {
+        "total": 1,
+        "positive": 0,
+        "negative": 1
+      },
+      "overall_analysis": {
+        "overall_sentiment": "negative",
+        "average_sentiment_score": -0.8013,
+        "sentiment_distribution": {
+          "positive": 0.0,
+          "negative": 1.0,
+          "neutral": 0.0
+        },
+        "top_key_phrases": [
+          "trial",
+          "sign",
+          "charged",
+          "right",
+          "away"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": -0.8013,
+          "min_sentiment_score": -0.8013
+        }
+      }
+    },
+    {
+      "app_id": "6444727687",
+      "app_name": "GO S. Placer On-Demand Transit",
+      "review_counts": {
+        "total": 3,
+        "positive": 1,
+        "negative": 2
+      },
+      "overall_analysis": {
+        "overall_sentiment": "negative",
+        "average_sentiment_score": -0.13606666666666664,
+        "sentiment_distribution": {
+          "positive": 0.3333333333333333,
+          "negative": 0.6666666666666666,
+          "neutral": 0.0
+        },
+        "top_key_phrases": [
+          "rides",
+          "available",
+          "worst",
+          "service",
+          "dispatchers",
+          "transportation",
+          "rude",
+          "even",
+          "future",
+          "point"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.8338,
+          "min_sentiment_score": -0.946
+        }
+      }
+    },
+    {
+      "app_id": "1494662016",
+      "app_name": "MoveQwik Pro",
+      "review_counts": {
+        "total": 12,
+        "positive": 7,
+        "negative": 5
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.0911,
+        "sentiment_distribution": {
+          "positive": 0.5833333333333334,
+          "negative": 0.4166666666666667,
+          "neutral": 0.0
+        },
+        "top_key_phrases": [
+          "app",
+          "leads",
+          "scam",
+          "jobs",
+          "signed",
+          "job",
+          "see",
+          "location",
+          "money",
+          "many"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9125,
+          "min_sentiment_score": -0.9437
+        }
+      }
+    },
+    {
+      "app_id": "881999615",
+      "app_name": "Dolly: Moving & Delivery Help",
+      "review_counts": {
+        "total": 500,
+        "positive": 234,
+        "negative": 253
+      },
+      "overall_analysis": {
+        "overall_sentiment": "negative",
+        "average_sentiment_score": -0.049550000000000004,
+        "sentiment_distribution": {
+          "positive": 0.44,
+          "negative": 0.54,
+          "neutral": 0.02
+        },
+        "top_key_phrases": [
+          "dolly",
+          "service",
+          "move",
+          "time",
+          "helper",
+          "day",
+          "helpers",
+          "movers",
+          "experience",
+          "app"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9764,
+          "min_sentiment_score": -0.9735
+        }
+      }
+    },
+    {
+      "app_id": "1626401584",
+      "app_name": "Cookin: Homemade Food Delivery",
+      "review_counts": {
+        "total": 20,
+        "positive": 18,
+        "negative": 2
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.72905,
+        "sentiment_distribution": {
+          "positive": 0.9,
+          "negative": 0.1,
+          "neutral": 0.0
+        },
+        "top_key_phrases": [
+          "food",
+          "app",
+          "cookin",
+          "delivery",
+          "love",
+          "nice",
+          "great",
+          "amazing",
+          "experience",
+          "using"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9839,
+          "min_sentiment_score": -0.6892
+        }
+      }
+    },
+    {
+      "app_id": "1299142892",
+      "app_name": "Truckr-On-demand Trucks",
+      "review_counts": {
+        "total": 1,
+        "positive": 1,
+        "negative": 0
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.9273,
+        "sentiment_distribution": {
+          "positive": 1.0,
+          "negative": 0.0,
+          "neutral": 0.0
+        },
+        "top_key_phrases": [
+          "dave",
+          "best",
+          "driver",
+          "super",
+          "job"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9273,
+          "min_sentiment_score": 0.9273
+        }
+      }
+    },
+    {
+      "app_id": "6450030781",
+      "app_name": "Muvr - Request movers",
+      "review_counts": {
+        "total": 53,
+        "positive": 50,
+        "negative": 2
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.8518716981132075,
+        "sentiment_distribution": {
+          "positive": 0.9433962264150944,
+          "negative": 0.03773584905660377,
+          "neutral": 0.018867924528301886
+        },
+        "top_key_phrases": [
+          "great",
+          "service",
+          "moving",
+          "app",
+          "best",
+          "muvr",
+          "used",
+          "delivery",
+          "amazing",
+          "rico"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9931,
+          "min_sentiment_score": -0.1471
+        }
+      }
+    },
+    {
+      "app_id": "992735679",
+      "app_name": "Yoshi - Keep Moving",
+      "review_counts": {
+        "total": 313,
+        "positive": 218,
+        "negative": 87
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.498147,
+        "sentiment_distribution": {
+          "positive": 0.79,
+          "negative": 0.19,
+          "neutral": 0.02
+        },
+        "top_key_phrases": [
+          "service",
+          "gas",
+          "yoshi",
+          "love",
+          "app",
+          "great",
+          "time",
+          "using",
+          "car",
+          "best"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.987,
+          "min_sentiment_score": -0.9328
+        }
+      }
+    },
+    {
+      "app_id": "978279500",
+      "app_name": "GoShare Driver: Earn Money",
+      "review_counts": {
+        "total": 376,
+        "positive": 194,
+        "negative": 142
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.088003,
+        "sentiment_distribution": {
+          "positive": 0.52,
+          "negative": 0.33,
+          "neutral": 0.15
+        },
+        "top_key_phrases": [
+          "app",
+          "background",
+          "pay",
+          "check",
+          "job",
+          "time",
+          "work",
+          "project",
+          "first",
+          "get"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9694,
+          "min_sentiment_score": -0.9726
+        }
+      }
+    },
+    {
+      "app_id": "1090897073",
+      "app_name": "Shipa delivery",
+      "review_counts": {
+        "total": 16,
+        "positive": 4,
+        "negative": 9
+      },
+      "overall_analysis": {
+        "overall_sentiment": "negative",
+        "average_sentiment_score": -0.28675625,
+        "sentiment_distribution": {
+          "positive": 0.25,
+          "negative": 0.5625,
+          "neutral": 0.1875
+        },
+        "top_key_phrases": [
+          "worst",
+          "app",
+          "company",
+          "customer",
+          "thing",
+          "service",
+          "delivery",
+          "time",
+          "like",
+          "downloaded"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.91,
+          "min_sentiment_score": -0.9599
+        }
+      }
+    },
+    {
+      "app_id": "1283381209",
+      "app_name": "Frayt: Anything Delivered",
+      "review_counts": {
+        "total": 16,
+        "positive": 10,
+        "negative": 5
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.13599375,
+        "sentiment_distribution": {
+          "positive": 0.625,
+          "negative": 0.3125,
+          "neutral": 0.0625
+        },
+        "top_key_phrases": [
+          "app",
+          "care",
+          "driver",
+          "frayt",
+          "work",
+          "company",
+          "signed",
+          "deliveries",
+          "delivery",
+          "vehicle"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9705,
+          "min_sentiment_score": -0.9502
+        }
+      }
+    },
+    {
+      "app_id": "657777015",
+      "app_name": "Via \u2014 smarter mobility.",
+      "review_counts": {
+        "total": 500,
+        "positive": 317,
+        "negative": 150
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.153365,
+        "sentiment_distribution": {
+          "positive": 0.57,
+          "negative": 0.35,
+          "neutral": 0.08
+        },
+        "top_key_phrases": [
+          "via",
+          "driver",
+          "app",
+          "service",
+          "ride",
+          "great",
+          "time",
+          "drivers",
+          "get",
+          "pick"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9865,
+          "min_sentiment_score": -0.9155
+        }
+      }
+    },
+    {
+      "app_id": "399857015",
+      "app_name": "Planet Fitness Workouts",
+      "review_counts": {
+        "total": 500,
+        "positive": 329,
+        "negative": 109
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.31677099999999997,
+        "sentiment_distribution": {
+          "positive": 0.65,
+          "negative": 0.28,
+          "neutral": 0.07
+        },
+        "top_key_phrases": [
+          "app",
+          "gym",
+          "great",
+          "planet",
+          "fitness",
+          "staff",
+          "always",
+          "needs",
+          "cancel",
+          "go"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9794,
+          "min_sentiment_score": -0.9246
+        }
+      }
+    },
+    {
+      "app_id": "1109398410",
+      "app_name": "Porter - Truck & Bike Delivery",
+      "review_counts": {
+        "total": 17,
+        "positive": 10,
+        "negative": 6
+      },
+      "overall_analysis": {
+        "overall_sentiment": "positive",
+        "average_sentiment_score": 0.12368823529411765,
+        "sentiment_distribution": {
+          "positive": 0.5882352941176471,
+          "negative": 0.35294117647058826,
+          "neutral": 0.058823529411764705
+        },
+        "top_key_phrases": [
+          "service",
+          "app",
+          "porter",
+          "easy",
+          "good",
+          "first",
+          "helpful",
+          "driver",
+          "amazing",
+          "time"
+        ],
+        "sentiment_details": {
+          "max_sentiment_score": 0.9022,
+          "min_sentiment_score": -0.9421
+        }
+      }
+    }
+  ],
+  "timestamp": "2024-11-19 15:38:50"
+}

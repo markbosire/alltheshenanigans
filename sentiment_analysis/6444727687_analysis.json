@@ -1,0 +1,34 @@
+{
+  "app_id": "6444727687",
+  "app_name": "GO S. Placer On-Demand Transit",
+  "review_counts": {
+    "total": 3,
+    "positive": 1,
+    "negative": 2
+  },
+  "overall_analysis": {
+    "overall_sentiment": "negative",
+    "average_sentiment_score": -0.13606666666666664,
+    "sentiment_distribution": {
+      "positive": 0.3333333333333333,
+      "negative": 0.6666666666666666,
+      "neutral": 0.0
+    },
+    "top_key_phrases": [
+      "rides",
+      "available",
+      "worst",
+      "service",
+      "dispatchers",
+      "transportation",
+      "rude",
+      "even",
+      "future",
+      "point"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.8338,
+      "min_sentiment_score": -0.946
+    }
+  }
+}

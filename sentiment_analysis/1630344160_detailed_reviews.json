@@ -1,0 +1,35 @@
+{
+  "app_id": "1630344160",
+  "app_name": "Guiltyfitness ON Demand",
+  "reviews": [
+    {
+      "id": "9713403127",
+      "userName": "KarryKrash",
+      "userUrl": "https://itunes.apple.com/us/reviews/id279564991",
+      "version": "2.6.0",
+      "score": 1,
+      "title": "The trial is a lie",
+      "text": "When you sign up you will be charged right away, you will not be given a free trial. Beware! I haven\u2019t gotten any assistance to get a refund, very disappointed",
+      "url": "https://itunes.apple.com/us/review?id=1630344160&type=Purple%20Software",
+      "updated": "2023-03-14T12:21:59-07:00",
+      "appId": "1630344160",
+      "appName": "Guiltyfitness ON Demand",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.8013,
+        "key_phrases": [
+          "trial",
+          "sign",
+          "charged",
+          "right",
+          "away"
+        ],
+        "sentiment_details": {
+          "positive": 0.0,
+          "negative": 0.226,
+          "neutral": 0.774
+        }
+      }
+    }
+  ]
+}

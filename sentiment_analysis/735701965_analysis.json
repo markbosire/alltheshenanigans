@@ -1,0 +1,34 @@
+{
+  "app_id": "735701965",
+  "app_name": "Lalamove - Fast & Affordable",
+  "review_counts": {
+    "total": 45,
+    "positive": 26,
+    "negative": 11
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.23209555555555555,
+    "sentiment_distribution": {
+      "positive": 0.5777777777777777,
+      "negative": 0.24444444444444444,
+      "neutral": 0.17777777777777778
+    },
+    "top_key_phrases": [
+      "service",
+      "app",
+      "driver",
+      "good",
+      "easy",
+      "even",
+      "fast",
+      "customer",
+      "notifications",
+      "drivers"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9776,
+      "min_sentiment_score": -0.9482
+    }
+  }
+}

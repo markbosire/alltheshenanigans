@@ -1,0 +1,34 @@
+{
+  "app_id": "1494662016",
+  "app_name": "MoveQwik Pro",
+  "review_counts": {
+    "total": 12,
+    "positive": 7,
+    "negative": 5
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.0911,
+    "sentiment_distribution": {
+      "positive": 0.5833333333333334,
+      "negative": 0.4166666666666667,
+      "neutral": 0.0
+    },
+    "top_key_phrases": [
+      "app",
+      "leads",
+      "scam",
+      "jobs",
+      "signed",
+      "job",
+      "see",
+      "location",
+      "money",
+      "many"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9125,
+      "min_sentiment_score": -0.9437
+    }
+  }
+}

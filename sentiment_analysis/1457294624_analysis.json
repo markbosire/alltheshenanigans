@@ -1,0 +1,34 @@
+{
+  "app_id": "1457294624",
+  "app_name": "GOGOX - Get anything delivered",
+  "review_counts": {
+    "total": 17,
+    "positive": 4,
+    "negative": 0
+  },
+  "overall_analysis": {
+    "overall_sentiment": "neutral",
+    "average_sentiment_score": 0.1550058823529412,
+    "sentiment_distribution": {
+      "positive": 0.23529411764705882,
+      "negative": 0.0,
+      "neutral": 0.7647058823529411
+    },
+    "top_key_phrases": [
+      "\uc218",
+      "\uac00\uaca9\uc774",
+      "\ub354",
+      "\uac83",
+      "1",
+      "gogox",
+      "\uc798",
+      "\ubd80\ub97c",
+      "\ube44\uad50\uc801",
+      "\uc800\ub834\ud55c"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9685,
+      "min_sentiment_score": 0.0
+    }
+  }
+}

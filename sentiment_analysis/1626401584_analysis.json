@@ -1,0 +1,34 @@
+{
+  "app_id": "1626401584",
+  "app_name": "Cookin: Homemade Food Delivery",
+  "review_counts": {
+    "total": 20,
+    "positive": 18,
+    "negative": 2
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.72905,
+    "sentiment_distribution": {
+      "positive": 0.9,
+      "negative": 0.1,
+      "neutral": 0.0
+    },
+    "top_key_phrases": [
+      "food",
+      "app",
+      "cookin",
+      "delivery",
+      "love",
+      "nice",
+      "great",
+      "amazing",
+      "experience",
+      "using"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9839,
+      "min_sentiment_score": -0.6892
+    }
+  }
+}

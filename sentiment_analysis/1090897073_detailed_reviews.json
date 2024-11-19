@@ -1,0 +1,466 @@
+{
+  "app_id": "1090897073",
+  "app_name": "Shipa delivery",
+  "reviews": [
+    {
+      "id": "10975649609",
+      "userName": "mm23nm",
+      "userUrl": "https://itunes.apple.com/us/reviews/id1150104495",
+      "version": "6.9.0",
+      "score": 1,
+      "title": "\u062a\u0623\u062e\u0631 \u0628\u0627\u0644\u0634\u062d\u0646",
+      "text": "\u0637\u0644\u0628\u062a \u0645\u0646 \u0627\u0644\u0633\u064a\u0641 \u063a\u0627\u0644\u064a\u0631\u064a \u0648\u062a\u0645 \u0634\u062d\u0646\u0647 \u0628\u0647\u0630\u064a \u0627\u0644\u0634\u0631\u0643\u0647 \u0648\u0647\u0630\u0627 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062e\u0627\u0645\u0633 \u0644\u0645 \u062a\u0635\u0644 \u0627\u0644\u064a \u0634\u062d\u0646\u062a\u064a \u0631\u063a\u0645 \u0627\u0646 \u0627\u0644\u0645\u0633\u0627\u0641\u0647 \u0642\u0631\u064a\u0628\u0647 \u062c\u062f\u0627\u064b \u0648\u0627\u0630\u0627 \u062f\u062e\u0644\u062a \u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0643\u0644 \u064a\u0648\u0645 \u064a\u0639\u0637\u064a\u0646\u064a \u062a\u0633\u0644\u064a\u0645 \u0628\u062a\u0627\u0631\u064a\u062e \u0628\u0646\u0641\u0633 \u0627\u0644\u064a\u0648\u0645 \u0627\u0633\u062a\u0644\u0645 \u0648\u0627\u062e\u0631\u062a\u0647\u0627 \u0645\u0627 \u0627\u0633\u062a\u0644\u0645 \u0634\u064a \u0648\u0644\u0645 \u064a\u062a\u0645 \u0627\u0644\u062a\u0648\u0635\u064a\u0644 \u0627\u0644\u0649 \u0627\u0644\u0627\u0646 \ud83d\udc4e\ud83c\udffb",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2024-02-24T11:41:39-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "sentiment_score": 0.0,
+        "key_phrases": [
+          "\u0627\u0644\u064a\u0648\u0645",
+          "\u0627\u0633\u062a\u0644\u0645",
+          "\u0637\u0644\u0628\u062a",
+          "\u0645\u0646",
+          "\u0627\u0644\u0633\u064a\u0641"
+        ],
+        "sentiment_details": {
+          "positive": 0.0,
+          "negative": 0.0,
+          "neutral": 1.0
+        }
+      }
+    },
+    {
+      "id": "10177414645",
+      "userName": "\u062e\u0628\u064a\u0631 \u0633\u064a\u0627\u0631\u0627\u062a",
+      "userUrl": "https://itunes.apple.com/us/reviews/id391673261",
+      "version": "6.7.0",
+      "score": 1,
+      "title": "False promises",
+      "text": "One of the worst delivery companies and they do not have any credibility in dealing with time\n\nWell the app doesn't work well.",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2023-07-24T11:21:52-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.2991,
+        "key_phrases": [
+          "well",
+          "one",
+          "worst",
+          "delivery",
+          "companies"
+        ],
+        "sentiment_details": {
+          "positive": 0.149,
+          "negative": 0.187,
+          "neutral": 0.664
+        }
+      }
+    },
+    {
+      "id": "8501154943",
+      "userName": "Mossab 1",
+      "userUrl": "https://itunes.apple.com/us/reviews/id169645521",
+      "version": "6.2.2",
+      "score": 1,
+      "title": "STAY AWAY FROM THIS COMPANY",
+      "text": "Don\u2019t ever think to have any business with this company!!!! They rescheduled my shipment 4 times without any notice, and every time I call the customer service they say \u201cwe are sorry\u201d \u201cit will arrive soon\u201d. They keep lying and lying every time. You track your shipment online you see its out of delivery, you wait home to get your package then by the end of the day it\u2019s failed to be delivered and rescheduled!!!! And no body called me!! YOU WASTE YOUR TIME AND YOUR ENERGY AND YOUR MONEY!!!!! The worst company !!!!!!!!!!! STAY AWAY!!!!",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2022-03-27T04:57:05-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.9599,
+        "key_phrases": [
+          "company",
+          "time",
+          "rescheduled",
+          "shipment",
+          "every"
+        ],
+        "sentiment_details": {
+          "positive": 0.024,
+          "negative": 0.182,
+          "neutral": 0.794
+        }
+      }
+    },
+    {
+      "id": "8259592088",
+      "userName": "sharifidxb",
+      "userUrl": "https://itunes.apple.com/us/reviews/id421379624",
+      "version": "6.0.2",
+      "score": 5,
+      "title": "Smooth and user friendly",
+      "text": "I like the app. It\u2019s super easy and smooth. They shall add a note feature for the delivery option so one can write instructions on delivery.",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2022-01-19T13:32:43-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "positive",
+        "sentiment_score": 0.91,
+        "key_phrases": [
+          "smooth",
+          "delivery",
+          "like",
+          "app",
+          "super"
+        ],
+        "sentiment_details": {
+          "positive": 0.342,
+          "negative": 0.0,
+          "neutral": 0.658
+        }
+      }
+    },
+    {
+      "id": "8083987160",
+      "userName": "Ahmed khairy Farid",
+      "userUrl": "https://itunes.apple.com/us/reviews/id523009705",
+      "version": "6.0.0",
+      "score": 1,
+      "title": "Poor Company",
+      "text": "This\u2019s very poor company there will took to much time to deliver your order I think they are arriving from Pluto",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2021-12-01T08:56:02-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.7574,
+        "key_phrases": [
+          "poor",
+          "company",
+          "took",
+          "much",
+          "time"
+        ],
+        "sentiment_details": {
+          "positive": 0.0,
+          "negative": 0.245,
+          "neutral": 0.755
+        }
+      }
+    },
+    {
+      "id": "7873555555",
+      "userName": "MajidTarish",
+      "userUrl": "https://itunes.apple.com/us/reviews/id150090002",
+      "version": "5.1.0",
+      "score": 1,
+      "title": "Bad",
+      "text": "The worst customer service\u2026 \nI try to access the application to schedule the delivery it gives me Access Denied! And when I call 80074472 no one is answering\u2026. So how can I get my shipment from you???\nVery bad experience.",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2021-10-03T08:27:46-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.9558,
+        "key_phrases": [
+          "access",
+          "bad",
+          "worst",
+          "customer",
+          "try"
+        ],
+        "sentiment_details": {
+          "positive": 0.0,
+          "negative": 0.348,
+          "neutral": 0.652
+        }
+      }
+    },
+    {
+      "id": "5960514134",
+      "userName": "samar0028",
+      "userUrl": "https://itunes.apple.com/us/reviews/id794569699",
+      "version": "4.4.0",
+      "score": 1,
+      "title": "Doesn\u2019t work",
+      "text": "Me too I downloaded the app and the first thing it ask for is my phone number that is it I wasn\u2019t able to proceed any for there",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2020-05-18T02:26:37-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "positive",
+        "sentiment_score": 0.0772,
+        "key_phrases": [
+          "downloaded",
+          "app",
+          "first",
+          "thing",
+          "ask"
+        ],
+        "sentiment_details": {
+          "positive": 0.046,
+          "negative": 0.0,
+          "neutral": 0.954
+        }
+      }
+    },
+    {
+      "id": "5892662582",
+      "userName": "Jsalhameli",
+      "userUrl": "https://itunes.apple.com/us/reviews/id141564593",
+      "version": "4.4.0",
+      "score": 1,
+      "title": "Doesn\u2019t work",
+      "text": "I\u2019ve just downloaded the app and the first thing it asks for is you mobile. That\u2019s it, I wasn\u2019t able to proceed from there.",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2020-05-02T03:54:45-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "sentiment_score": 0.0,
+        "key_phrases": [
+          "downloaded",
+          "app",
+          "first",
+          "thing",
+          "asks"
+        ],
+        "sentiment_details": {
+          "positive": 0.0,
+          "negative": 0.0,
+          "neutral": 1.0
+        }
+      }
+    },
+    {
+      "id": "3220140003",
+      "userName": "Mediajoe",
+      "userUrl": "https://itunes.apple.com/us/reviews/id16321814",
+      "version": "2.6.0",
+      "score": 1,
+      "title": "No tracking",
+      "text": "Tracking option is not working.",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2018-09-22T23:26:19-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "positive",
+        "sentiment_score": 0.2235,
+        "key_phrases": [
+          "tracking",
+          "option",
+          "working"
+        ],
+        "sentiment_details": {
+          "positive": 0.239,
+          "negative": 0.0,
+          "neutral": 0.761
+        }
+      }
+    },
+    {
+      "id": "3158732476",
+      "userName": "wandering Packages",
+      "userUrl": "https://itunes.apple.com/us/reviews/id100248076",
+      "version": "2.6.0",
+      "score": 1,
+      "title": "Horrible",
+      "text": "The worst customer service ever. When you do talk to someone they just lie to you..\ud83d\udc4e",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2018-09-06T00:35:53-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.8225,
+        "key_phrases": [
+          "worst",
+          "customer",
+          "service",
+          "ever",
+          "talk"
+        ],
+        "sentiment_details": {
+          "positive": 0.0,
+          "negative": 0.336,
+          "neutral": 0.664
+        }
+      }
+    },
+    {
+      "id": "2654549996",
+      "userName": "DrL11",
+      "userUrl": "https://itunes.apple.com/us/reviews/id387326145",
+      "version": "2.5.0",
+      "score": 1,
+      "title": "The worst ever service!!",
+      "text": "If there was an option for negative stars I would have used it! The worst ever courier company I\u2019ve had to deal with! They have one driver who shuffles every morning between Dubai and Abu Dhabi, so orders to Fujairah and other emirates are totally ignored. They have my package for three days and still haven\u2019t delivered it after numerous calls and complaints. It\u2019s a shame that a company like Samsung is using them for deliveries and not other more reputable and reliable companies. Apple and iPhone will remain my choices for the future, I\u2019ve never had an issue like this with Apple. Samsung-change your delivery company!!",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2018-06-07T01:24:05-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.9549,
+        "key_phrases": [
+          "company",
+          "worst",
+          "ever",
+          "like",
+          "apple"
+        ],
+        "sentiment_details": {
+          "positive": 0.04,
+          "negative": 0.17,
+          "neutral": 0.791
+        }
+      }
+    },
+    {
+      "id": "2644301334",
+      "userName": "ylutsenko",
+      "userUrl": "https://itunes.apple.com/us/reviews/id497200794",
+      "version": "2.5.0",
+      "score": 1,
+      "title": "Aweful...",
+      "text": "Will never use again!",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2018-06-05T01:03:23-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "sentiment_score": 0.0,
+        "key_phrases": [
+          "never",
+          "use",
+          "aweful"
+        ],
+        "sentiment_details": {
+          "positive": 0.0,
+          "negative": 0.0,
+          "neutral": 1.0
+        }
+      }
+    },
+    {
+      "id": "2640972204",
+      "userName": "WDernayka",
+      "userUrl": "https://itunes.apple.com/us/reviews/id188760753",
+      "version": "2.5.0",
+      "score": 1,
+      "title": "Can\u2019t deliver a document",
+      "text": "Document couldn\u2019t be delivered, no refund... the only thing working is the chat module.",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2018-06-04T07:28:16-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.296,
+        "key_phrases": [
+          "document",
+          "delivered",
+          "refund",
+          "thing",
+          "working"
+        ],
+        "sentiment_details": {
+          "positive": 0.0,
+          "negative": 0.121,
+          "neutral": 0.879
+        }
+      }
+    },
+    {
+      "id": "1557876767",
+      "userName": "FouadK83",
+      "userUrl": "https://itunes.apple.com/us/reviews/id554637350",
+      "version": "2.0.3",
+      "score": 1,
+      "title": "A pity",
+      "text": "I haven't had an experience yet! I have placed order to \"carry\" a TV from on point to another in 3 days from the time of placing the order. I receive a call a day before the pick up apologizing for not being able to \"carry\" the TV due to its size. This is a real shame. Promising big and delivering small, in this case, not delivering at all! And the worst thing is, the customer service give an alternative date or try to find a solution! It's like she doesn't care if I use their service or not! This is just a perfect example of how to fail on \"carry\"ing.",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2017-03-05T00:48:49-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.778,
+        "key_phrases": [
+          "carry",
+          "order",
+          "tv",
+          "delivering",
+          "service"
+        ],
+        "sentiment_details": {
+          "positive": 0.093,
+          "negative": 0.15,
+          "neutral": 0.757
+        }
+      }
+    },
+    {
+      "id": "1546455230",
+      "userName": "Tony Hage",
+      "userUrl": "https://itunes.apple.com/us/reviews/id139918808",
+      "version": "2.0.3",
+      "score": 5,
+      "title": "Great app. Great service.",
+      "text": "Very reliable app and the device: the same. \n1 comment : You need to add the option to edit or to cancel an order.",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2017-02-17T07:10:11-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "positive",
+        "sentiment_score": 0.802,
+        "key_phrases": [
+          "app",
+          "great",
+          "reliable",
+          "device",
+          "1"
+        ],
+        "sentiment_details": {
+          "positive": 0.247,
+          "negative": 0.06,
+          "neutral": 0.693
+        }
+      }
+    },
+    {
+      "id": "1545039705",
+      "userName": "Biggy_83",
+      "userUrl": "https://itunes.apple.com/us/reviews/id103504149",
+      "version": "2.0.3",
+      "score": 2,
+      "title": "A great idea ruined by the worst experience",
+      "text": "I had high hopes on this app and after using it for 3 times and in three different occasions I've got to say: This is one of the worst customer experiences I've ever had with a service app in the UAE. They never keep up with the time promise, they don't deliver to the right address, the customer service representatives sound like a they are talking from their houses, and worst (and worrying) I get charged from my credit card while the app shows an error! This is simply the perfect recipe for failure, it's as if they're not even trying. What a bunch of hacks!",
+      "url": "https://itunes.apple.com/us/review?id=1090897073&type=Purple%20Software",
+      "updated": "2017-02-15T06:32:44-07:00",
+      "appId": "1090897073",
+      "appName": "Shipa delivery",
+      "sentiment_analysis": {
+        "sentiment": "negative",
+        "sentiment_score": -0.7772,
+        "key_phrases": [
+          "app",
+          "worst",
+          "customer",
+          "service",
+          "high"
+        ],
+        "sentiment_details": {
+          "positive": 0.133,
+          "negative": 0.175,
+          "neutral": 0.692
+        }
+      }
+    }
+  ]
+}

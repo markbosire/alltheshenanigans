@@ -1,0 +1,34 @@
+{
+  "app_id": "1283381209",
+  "app_name": "Frayt: Anything Delivered",
+  "review_counts": {
+    "total": 16,
+    "positive": 10,
+    "negative": 5
+  },
+  "overall_analysis": {
+    "overall_sentiment": "positive",
+    "average_sentiment_score": 0.13599375,
+    "sentiment_distribution": {
+      "positive": 0.625,
+      "negative": 0.3125,
+      "neutral": 0.0625
+    },
+    "top_key_phrases": [
+      "app",
+      "care",
+      "driver",
+      "frayt",
+      "work",
+      "company",
+      "signed",
+      "deliveries",
+      "delivery",
+      "vehicle"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": 0.9705,
+      "min_sentiment_score": -0.9502
+    }
+  }
+}

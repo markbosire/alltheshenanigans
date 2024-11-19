@@ -1,0 +1,29 @@
+{
+  "app_id": "1630344160",
+  "app_name": "Guiltyfitness ON Demand",
+  "review_counts": {
+    "total": 1,
+    "positive": 0,
+    "negative": 1
+  },
+  "overall_analysis": {
+    "overall_sentiment": "negative",
+    "average_sentiment_score": -0.8013,
+    "sentiment_distribution": {
+      "positive": 0.0,
+      "negative": 1.0,
+      "neutral": 0.0
+    },
+    "top_key_phrases": [
+      "trial",
+      "sign",
+      "charged",
+      "right",
+      "away"
+    ],
+    "sentiment_details": {
+      "max_sentiment_score": -0.8013,
+      "min_sentiment_score": -0.8013
+    }
+  }
+}
